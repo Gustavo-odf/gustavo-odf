@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hi there 👋
 
-<!--
-**gust-next/gust-next** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About me :scream:
 
-Here are some ideas to get you started:
+My name is Gustavo from Brazil (🇧🇷).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+In my free time I like to play (and watch) poker (♦️♠️♥️♣️), to watch formula 1 (🏎️), to watch movies (🎞️) and series (📺), to read books (📚), to listen to music (🎵) and drink beer (🍺).
+
+
+Would you like to find me?
+
+
+[![Instagram Badge]( )
+
+[![Linkedin Badge]( )
+
+[![Discord Badge]( )

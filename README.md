@@ -1,6 +1,6 @@
 👋 Hi, I'm Gustavo 😄
 📍 Rio grande do sul in brazil 🌎
-systems analysis student and Development 🎓 and i'm in 1st semesteer 📚
+Systems Analysis student and Development🎓 and i'm in 1st semesteer📚
 
 👉 about me
 🐎 I like horses, lassoing, and long-distance motorcycle rides 🏍️

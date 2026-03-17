@@ -1,17 +1,17 @@
-### Hi there 👋
+👋 Hi, I'm Gustavo 😄
+📍 Rio grande do sul in brazil 🌎
+systems analysis student and Development 🎓 and i'm in 1st semesteer 📚
 
-About me :scream:
+👉 about me
+🐎 I like horses, lassoing, and long-distance motorcycle rides 🏍️
+📖 I also enjoy reading and keeping up date on the world of technology 💻
 
-My name is Gustavo from Brazil (🇧🇷).
+🚀 Currently learning
+💡 Programming Logic
+📊 Algorithms
+🛠️ Development Fundamentals
+🔧 Git & GitHub
 
-In my free time I like to play (and watch) poker (♦️♠️♥️♣️), to watch formula 1 (🏎️), to watch movies (🎞️) and series (📺), to read books (📚), to listen to music (🎵) and drink beer (🍺).
-
-
-Would you like to find me?
-
-
-[![Instagram Badge]( )
-
-[![Linkedin Badge]( )
-
-[![Discord Badge]( )
+🌐 Connect with me
+📸 Instagram: https://www.instagram.com/gustavo_odf/
+💬 Discord: gxtt777
